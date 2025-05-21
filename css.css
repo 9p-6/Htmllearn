@@ -1,0 +1,119 @@
+table{
+    border-collapse: collapse;
+    width: 100%;
+    font-family: sans-serif;
+    background-color: gray;
+
+}
+
+#f2{
+    background-color: brown;
+}
+
+body{
+    background-image: url(WTRP.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100vw;
+    background-color:rgb(112, 111, 109) ;
+}
+
+#Search{
+    background-color: rgb(44, 45, 46);
+    border: 1vw black;
+}
+
+#Emailbut{
+    background-color: rgb(44, 45, 46);
+    border: 1px black;
+}
+
+#Password{
+    background-color: rgb(44, 45, 46);
+    border: 1px black;
+}
+
+#aud1{
+    width: 50%vw;
+    height: 5vw;
+}
+
+#vid1{
+    height: 30vw;
+}
+
+#img1{
+    height: 30vw;
+    background-color: black;
+    color: white;
+}
+
+#img2{
+    height: 30vw;
+    border-radius: 100%;
+}
+
+button{
+    height: 5vw;
+    background-color: rgb(7, 1, 21);
+    color: white;
+    cursor: wait;
+}
+
+#but1{
+    border-radius: 100%;
+    border: 1px;
+}
+
+#but2{
+    border-top: 1px dashed rgb(249, 24, 7);
+    border-right: 1px dashed green;
+    border-left:1px dashed lightcoral;
+    border-bottom:1px dashed white;
+}
+
+#but3{
+    border-top: 1px dotted rgb(249, 24, 7);
+    border-right: 1px dotted green;
+    border-left:1px dotted lightcoral;
+    border-bottom:1px dotted white;
+}
+
+#but4{
+    border-top: 1px double rgb(249, 24, 7);
+    border-right: 1px double green;
+    border-left:1px double lightcoral;
+    border-bottom:1px double white;
+}
+
+#d1{
+    background-color: black;
+    width: 100%;
+    height: 100px;
+    color: white;
+}
+
+#d2{
+    background-color: green;
+    width: 25%;
+    height: 220px;
+    float: left;
+    color: white;
+}
+
+#d3{
+    background-color: yellow;
+    width: 75%;
+    height: 220px;
+    float: right;
+    color: rgb(16, 16, 16);
+}
+
+#d4{
+    background-color: blue;
+    width: 100%;
+    height: 100px;
+    clear: both;
+    color: white;
+}
